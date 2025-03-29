@@ -1,9 +1,5 @@
 Aim: To implement and analyze Ideal sampling using Python.
 
-Apparatus required:
-
-use personal computer using colab 
-
 Tools Required: Personal PC with Google colab.
 
 Code:
